@@ -32,7 +32,7 @@ Plugin
     appropriately, e.g., it deactivates itself if the backend isn't present.
 
 Backend Library
-    A (potentially 3d party) library that can read and/or write
+    A (potentially 3rd party) library that can read and/or write
     images or image-like objects (videos, etc.). Every backend is optional, so it is
     up to you to decide which backends to install depending on your needs. Examples
     for backends are pillow, tifffile, or ffmpeg.
